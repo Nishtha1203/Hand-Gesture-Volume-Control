@@ -1,4 +1,4 @@
-# Hand Gesture Volume Control
+# Hand Gesture Volume Control System
 The Hand Gesture Volume Control project is an advanced interactive application designed to revolutionize how users interact with their computer's audio settings. Leveraging cutting-edge computer vision and machine learning technology, this project aims to create a seamless, contactless volume control system. Using hand gestures, users can adjust their computer's volume in real-time, making the experience both intuitive and futuristic.
 
 This project captures real-time video input through a computer's webcam to detect specific hand gestures, primarily focusing on the distance between the thumb and index finger. It employs a sophisticated blend of technologies including OpenCV for image processing, MediaPipe for precise hand tracking and gesture recognition, and PyAutoGUI for simulating keyboard inputs to adjust the system's volume. This integration of technologies allows for a highly responsive and accurate system capable of enhancing user accessibility and providing a novel way to interact with computers.
